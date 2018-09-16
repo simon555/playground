@@ -1,4 +1,4 @@
-# CS207 Course Repository
+﻿# CS207 Course Repository
 
 This is the Fall 2018 CS207 course repo.
 
@@ -28,6 +28,7 @@ organization will be called `cs207_groupname` and the project repo should be cal
 organization for experiments, but `project` is the one we will grade.
 
 <!--
+
 ### Contents:
 **homeworks** --- Directory for homework assignments
 
