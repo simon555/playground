@@ -1,6 +1,5 @@
-﻿#modified version of the readme for HW2
-# CS207 Course Repository
-
+﻿# CS207 Course Repository
+#new modification of the readme for the HW2
 This is the Fall 2018 CS207 course repo.
 
 Please consult the course website [https://iacs-cs-207.github.io/cs207-F18/](https://iacs-cs-207.github.io/cs207-F18/) for specific course details
