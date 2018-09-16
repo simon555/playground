@@ -1,5 +1,4 @@
-﻿#modified version of the readme for the HW2
-# CS207 Course Repository
+﻿# CS207 Course Repository
 new modification of the readme for the HW2
 This is the Fall 2018 CS207 course repo.
 
