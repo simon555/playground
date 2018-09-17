@@ -1,5 +1,5 @@
-﻿# CS207 Course Repository
-new modification of the readme for the HW2
+# CS207 Course Repository
+
 This is the Fall 2018 CS207 course repo.
 
 Please consult the course website [https://iacs-cs-207.github.io/cs207-F18/](https://iacs-cs-207.github.io/cs207-F18/) for specific course details
@@ -19,6 +19,8 @@ The `GitHub` usernames for the teaching staff are:
 * bkleyn
 * shiyunqiu
 * lee709
+* brafetto
+* yiqixie94
 
 When you arrive at each class, you should pull from the base course repo. Make sure you push all changes to your repo before each deadline. We
 will be able to see if you’ve submitted your work on time or not.
@@ -27,7 +29,8 @@ The class project will be done in groups of 3 to 4. You should create a GitHub o
 organization will be called `cs207_groupname` and the project repo should be called `project`. The group is free to make other repos within the
 organization for experiments, but `project` is the one we will grade.
 
-<!--### Contents:
+<!--
+### Contents:
 **homeworks** --- Directory for homework assignments
 
 **lectures** --- Directory for lectures
